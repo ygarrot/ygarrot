@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning machine learning algorithm and neural network at Hectar
+- 🌱 I’m currently learning machine learning algorithms and neural networks at Hectar
 - 🤔 I’m looking for help with Rust or data science and Maths
 - 💬 Ask me about C/C++, Python, Javascript, vim or bash
 
