@@ -3,7 +3,7 @@
 - 🤔 I’m looking for help with Rust or data science/Maths
 - 💬 Ask me about C/C++, Python, Javascript, vim or bash
 
-[![my 42's Stats](https://badge42.herokuapp.com/api/stats/ygarrot)](https://github.com/JaeSeoKim/badge42)
+<!-- [![my 42's Stats](https://badge42.herokuapp.com/api/stats/ygarrot)](https://github.com/JaeSeoKim/badge42) -->
 
 ## Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ygarrot&theme=synthwave)](https://git.io/streak-stats)
