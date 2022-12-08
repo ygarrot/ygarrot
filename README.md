@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning machine learning algorithms and neural networks at Hectar
+- 🌱 I’m currently a full stack developer at Aptimiz
 - 🤔 I’m looking for help with Rust or data science/Maths
 - 💬 Ask me about C/C++, Python, Javascript, vim or bash
 
